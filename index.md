@@ -99,8 +99,12 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <div style="text-align: justify">Besides Data Science, I also have a interest on arts and design like abstract paint or watercolor. Below is a list of my paints.</div>
 <br>
 
-- [Untitled I] (class="gallery"><img src="images/Untitled I.jpg" alt="Northern Lights" width="600" height="400">
+- <class="gallery"><img src="images/Untitled I.jpg" alt="Northern Lights" width="600" height="400">
   <div class="desc">Untitled I</div></div>)
-
+- <class="gallery"><img src="images/Untitled II.jpg" alt="Northern Lights" width="600" height="400">
+  <div class="desc">Untitled I</div></div>)
+- <class="gallery"><img src="images/Untitled III.jpg" alt="Northern Lights" width="600" height="400">
+  <div class="desc">Untitled I</div></div>)
+  
 ---
 <center>© 2022 Syarifah Rosita Dewi. Powered by Jekyll and the Minimal Theme.</center>
