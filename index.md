@@ -94,17 +94,19 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 ---
 ## Arts by Me
 
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
+<!-- [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE) -->
 
 <div style="text-align: justify">Besides Data Science, I also have a interest on arts and design like abstract paint or watercolor. Below is a list of my paints.</div>
 <br>
 
-- <img src="images/Untitled I.jpg" alt="Northern Lights" width="600" height="400">
+<div class="gallery">
+<img src="images/Untitled I.jpg" alt="Northern Lights" width="600" height="400">
   <div class="desc">Untitled I</div></div>)
-- <img src="images/Untitled II.jpg" alt="Northern Lights" width="600" height="400">
+<img src="images/Untitled II.jpg" alt="Northern Lights" width="600" height="400">
   <div class="desc">Untitled II</div></div>)
-- <img src="images/Untitled III.jpg" alt="Northern Lights" width="600" height="400">
-  <div class="desc">Untitled III</div></div>)
+<img src="images/Untitled III.jpg" alt="Northern Lights" width="600" height="400">
+  <div class="desc">Untitled III</div>
+  </div>
   
 ---
 <center>© 2022 Syarifah Rosita Dewi. Powered by Jekyll and the Minimal Theme.</center>
