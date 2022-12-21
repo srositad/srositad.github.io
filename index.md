@@ -101,9 +101,9 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 <div class="gallery">
 <img src="images/Untitled I.jpg" alt="Northern Lights" width="600" height="400">
-  <div class="desc">Untitled I</div></div>)
+  <div class="desc">Untitled I</div>
 <img src="images/Untitled II.jpg" alt="Northern Lights" width="600" height="400">
-  <div class="desc">Untitled II</div></div>)
+  <div class="desc">Untitled II</div>
 <img src="images/Untitled III.jpg" alt="Northern Lights" width="600" height="400">
   <div class="desc">Untitled III</div>
   </div>
