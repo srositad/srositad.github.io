@@ -1,5 +1,6 @@
 title: Syarifah Rosita Dewi # your name (or website title) here
-logo: "/images/profil.jpg?raw=true" # your photo (or logo) here
+# logo: "/images/profil.jpg?raw=true" # your photo (or logo) here
+logo : <img class="avatar is-rounded" src="/images/profil.jpg?raw=true" alt="Lei Mao">
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
