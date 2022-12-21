@@ -1,6 +1,6 @@
 title: <p align="center"> Syarifah Rosita Dewi </p>
 
-logo: <img align="center"> "/images/image.png?raw=true" </img># your photo (or logo) here
+logo: "/images/image.png?raw=true" # your photo (or logo) here
 # logo: <img class="avatar is-rounded" src="/images/image.png?raw=true" alt="Lei Mao">
 
 description:
@@ -11,10 +11,8 @@ description:
   </p>
   
   <p align="justify">
-  I am pursing BS degree in Statistics at Islamic University of Indonesia.
-  <br><br>
-  I am currently a Data Scientist with 4+ years of total experience in building data-intensive applications, overcoming complex 
-  architectural, and scalability issues in diverse industries.
+  I love bringing efficiency to things. I have a passion for solving problems, building sustainable solutions, and learning as much as I can about things that interest me. 
+  I'm also excited about talking to people who are interested in productivity and self-improvement.
   <br><br>
   </p>
   
