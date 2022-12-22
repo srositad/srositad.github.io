@@ -1,6 +1,6 @@
-# Featured Projects
+# I. Featured Projects
 ---
-## Natural Language Processing
+<!-- ## Natural Language Processing
 
 ### CS224n: Natural Language Processing with Deep Learning
 
@@ -32,7 +32,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
 <br>
 <center><img src="images/fb-food-trends.png"></center>
-<br>
+<br> -->
 
 ---
 ### Optimize Route and Price
@@ -43,9 +43,11 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 <center><img src="images/cluster_R_map.jpg"/></center>
 <br>
+<br>
+<br>
 
 ---
-## Research Projects (Publication)
+# II. Research Projects (Publication)
 
 
 ---
@@ -53,9 +55,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 [![Open Research Paper](https://img.shields.io/badge/PDF-Open_Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](https://arxiv.org/abs/2010.10934)
 
-<div style="text-align: justify">This aim of the study was cast in the framework of determining the most effective way to deliver services from customer to other customers within a specified area, subject to limitations on resources such as service personnel and vehicle volume. Most of these algorithms employ a cluster-first and route-second strategy in order to address real application problems effectively.
-
-</div>
+<div style="text-align: justify">This aim of the study was cast in the framework of determining the most effective way to deliver services from customer to other customers within a specified area, subject to limitations on resources such as service personnel and vehicle volume. Most of these algorithms employ a cluster-first and route-second strategy in order to address real application problems effectively.</div>
 <br>
 <center><img src="images/WP_Research_1.jpg"/></center>
 <br>
@@ -67,7 +67,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 [![Open Research Paper](https://img.shields.io/badge/PDF-Open_Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](https://www.researchgate.net/publication/346926919_Set_Best_Threshold_in_Vehicle_Routing_Problem_for_Better_Utilization)
 
 <div style="text-align: justify">This aim of the study was set a minimum capacity threshold for each vehicle that is considered as well utilized before an order is assigned for the delivery process. So that vehicle is well utilized such that the cost of vehicle rent is also minimal.
-
+<br>
 In this case, we define a set of thresholds and then evaluate predicted probabilities under each to find and select the optimal threshold. The present paper focuses on the threshold selection in capacity vehicle routing problem. According to the comparison between 0.65 to 0.9 threshold, using OR-Tools CVRP we get the optimal threshold in 0.75. For future work, we need to analyze more and can implement on platforms with the real-time data shown in the maps. Another thing is for different data, it would be a different threshold that would optimize the result.</div>
 <br>
 <center><img src="images/WP_Research_2.jpg"/></center>
@@ -94,11 +94,11 @@ In this case, we define a set of thresholds and then evaluate predicted probabil
 <br>
 
 <div class="gallery">
-<img src="images/Untitled I.jpg" alt="Northern Lights" width="450" height="250">
+<img src="images/Untitled I.jpg" alt="Northern Lights" width="350" height="250">
   <div class="desc">Untitled I</div>
-<img src="images/Untitled II.jpg" alt="Northern Lights" width="450" height="250">
+<img src="images/Untitled II.jpg" alt="Northern Lights" width="350" height="250">
   <div class="desc">Untitled II</div>
-<img src="images/Untitled III.jpg" alt="Northern Lights" width="450" height="250">
+<img src="images/Untitled III.jpg" alt="Northern Lights" width="350" height="250">
   <div class="desc">Untitled III</div>
   </div>
   
