@@ -1,4 +1,4 @@
-# I. Featured Projects
+# Featured Projects
 ---
 <!-- ## Natural Language Processing
 
@@ -47,7 +47,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-# II. Research Projects (Publication)
+# Research Projects (Publication)
 
 
 ---
