@@ -1,5 +1,4 @@
 # Featured Projects
----
 <!-- ## Natural Language Processing
 
 ### CS224n: Natural Language Processing with Deep Learning
@@ -86,11 +85,11 @@ In this case, we define a set of thresholds and then evaluate predicted probabil
 
 
 ---
-## Arts by Me
+<!-- ## Arts by Me
 
 <!-- [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE) -->
 
-<div style="text-align: justify">Besides Data Science, I also have a interest on arts and design like abstract paint or watercolor. Below is a list of my paints.</div>
+<!--<div style="text-align: justify">Besides Data Science, I also have a interest on arts and design like abstract paint or watercolor. Below is a list of my paints.</div>
 <br>
 
 <div class="gallery">
@@ -102,5 +101,5 @@ In this case, we define a set of thresholds and then evaluate predicted probabil
   <div class="desc">Untitled III</div>
   </div>
   
----
+--- -->
 <center>© 2022 Syarifah Rosita Dewi. Powered by Jekyll and the Minimal Theme.</center>
